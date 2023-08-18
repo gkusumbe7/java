@@ -24,6 +24,7 @@ public class ifElese {
 // 1350
         
        Scanner scn = new Scanner(System.in);
+        
         int units = scn.nextInt();
          int cost = units * 100 ;
         if( cost > 1000 ){
